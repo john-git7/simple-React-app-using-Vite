@@ -1,0 +1,23 @@
+/* Home.css */
+.container {
+    text-align: center;
+    padding: 20px;
+    
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  p {
+    font-size: 18px;
+    color:white;
+  }
+  
+  p span {
+    font-weight: bold;
+  }
+  body{
+    background-color: black;
+    font-family: "poppins", sans-serif;
+  }
